@@ -12,7 +12,7 @@ killing-experience: true
 # Utilizza worlds: "all" se vuoi attivarle su tutti i mondi
 # Decides in which worlds the previous options are active.
 # Example ["WorldName1,"WorldName2"]
-# use "all" if you want to activate them in every world
+# use worlds: "all" if you want to activate them in every world
 worlds: ["World1","World2"]
 
 # Sovrascrive la bottiglia di esperienza di pocketmine in modo che quando la si utilizza l'esperienza vada direttamente nella barrra dell'esperienza del giocatore
