@@ -1,4 +1,5 @@
 ---
+
 # Rimuovei drop di esperienza derivati dal mining dei minerali e li aggiunge alla tua barra dell'esperienza
 # Removes xp drops from mining minerals and adds them to your xp bar
 breaking-experience: true
@@ -18,3 +19,5 @@ worlds: ["World1","World2"]
 # Sovrascrive la bottiglia di esperienza di pocketmine in modo che quando la si utilizza l'esperienza vada direttamente nella barrra dell'esperienza del giocatore
 # Override pocketmine's xp botte so the xp goes directly into the player's xp bar
 override-experience-bottle: false
+
+---
