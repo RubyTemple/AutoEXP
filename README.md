@@ -3,5 +3,5 @@
 ### Features:
  - Completely customizable
  - You can decide the worlds affected by the plugin
- - automatically transfers all the xp in your xp bar without spawning xp orbs
- - allows you to override xp bottle
+ - Automatically transfers all the xp in your xp bar without spawning xp orbs
+ - Allows you to override xp bottle
