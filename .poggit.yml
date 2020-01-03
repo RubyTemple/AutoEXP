@@ -3,5 +3,6 @@ branches:
 - master
 projects:
   AutoEXP:
+    icon: "icon.png"
     path: ""
 ...
